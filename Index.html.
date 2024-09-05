@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Discord Gift</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f4f6;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #7289da;
+    }
+    p {
+      font-size: 18px;
+      color: #4f545c;
+    }
+  </style>
+</head>
+<body>
+  <h1>Oops!</h1>
+  <p>This Discord gift has already been claimed by someone else.</p>
+</body>
+</html>
